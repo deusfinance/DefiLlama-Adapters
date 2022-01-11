@@ -1,4 +1,5 @@
-# DEPRICATED
+# DEPRECATED
+
 # Defillama Adapters
 
 Follow [this guide](https://docs.llama.fi/submit-a-project) to create an adapter and submit a PR with it.
